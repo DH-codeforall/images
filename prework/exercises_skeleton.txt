@@ -1,0 +1,147 @@
+Exercises – Skeleton (Modules 1 to 6)
+
+========================
+Module 1 – Math Foundations
+========================
+1) Percentages & Rates
+   - City A bike commuters (%): ______
+   - City B bike commuters (%): ______
+   - Higher commuting rate: ______
+
+2) Scaling
+   - GDP per capita (Country X): ______
+   - GDP per capita (Country Y): ______
+   - Richer per person: ______
+
+3) Exponents & Logs
+   - Population growth factor after 20 years: ______
+   - Energy ratio (mag 7 vs mag 5): ______
+
+4) Data Types
+   - Temperature in Celsius: ______
+   - Number of pets: ______
+   - Blood type: ______
+   - Customer satisfaction (1–5): ______
+   - Has driver’s license (yes/no): ______
+
+========================
+Module 2 – Descriptive Statistics
+========================
+1) Understanding "Typical"
+   - Mean salary: ______
+   - Median salary: ______
+   - Better descriptor & why: ______
+
+2) Measuring Spread
+   - More predictable bus: ______
+   - Range (Bus A): ______
+   - Range (Bus B): ______
+
+3) Weighted Mean
+   - Weighted mean: ______
+   - Why different from simple average: ______
+
+========================
+Module 3 – Visualizing & Interpreting Distributions
+========================
+1) Categorical Distribution
+   - Most popular drink: ______
+   - Least popular drink: ______
+
+2) Numeric Distribution (Ages)
+   - Counts per 5-year bins (10–14, 15–19, 20–24, 25–29, 30–34, 35–39): ______
+   - Counts per 10-year bins (10–19, 20–29, 30–39): ______
+   - What changes when using 10-year bins: ______
+
+3) Balanced or Skewed?
+   a) Salaries: ______ ; mean vs median: ______
+   b) Temperatures: ______ ; mean vs median: ______
+   c) Response times: ______ ; mean vs median: ______
+
+4) Outliers
+   - Outlier(s): ______
+   - Two plausible explanations: ______
+   - Keep or remove? Why: ______
+   - Robust summary/visual to reduce influence: ______
+
+5) Hidden Groups
+   - Pattern: ______
+   - Possible reason: ______
+   - How to check: ______
+   - If split: which statistics & why: ______
+
+========================
+Module 4 – Basic Probability
+========================
+1) Simple Probability
+   - P(dog owner): ______
+   - P(dog AND cat): ______
+
+2) Independent Events
+   - P(dog AND solar): ______
+   - Why multiply here: ______
+
+3) Dependent Events
+   - P(dog AND collar): ______
+   - Effect of knowing “owns collar” on P(dog): ______
+
+4) Conditional Probability
+   - P(Dog | Collar): ______
+   - P(Dog | No Collar): ______
+   - Compare & explain: ______
+
+========================
+Module 5 – Data Relationships
+========================
+1) Scatterplots (from image)
+   - Mode advertising budget: ______
+   - Sales values at that budget: ______
+   - Overall pattern (direction & strength): ______
+
+2) Correlation (from image)
+   - Trend (direction & strength): ______
+   - Plain-language interpretation: ______
+
+3) Grouping – Numeric Summary
+   - Average monthly revenue per store:
+     • TechWorld: ______
+     • GadgetHub: ______
+     • DigitalNest: ______
+   - Best on average: ______
+
+4) Grouping – Categorical Summary
+   - Proportions per region:
+     • North (Cash, Card, Online): ______
+     • South (Cash, Card, Online): ______
+   - Biggest regional difference in payment habits: ______
+
+5) Spot the Pitfall
+   - Likely explanation: ______
+   - How to check causality vs confounder: ______
+
+========================
+Module 6 – Linear Algebra Essentials
+========================
+1) Vector Basics
+   - Your favorite coffee drink as a vector [shots, ml milk, g sugar]: ______
+
+2) Importance Vector
+   - Importance vector [kcal per shot, per ml milk, per g sugar]: ______
+   - Dot product (calorie estimate): ______
+
+3) Matrix × Vector (Smoothies)
+   - Importance vector [per banana, per strawberry, per g yogurt]: ______
+   - Calories per smoothie (in order): ______
+
+4) One-Hot Encoding (Transport Mode)
+   - One-hot columns [car, bike, bus]. Encodings for Alice, Bob, Charlie, Debbie: ______
+   - Why 1/2/3 encoding is misleading: ______
+
+5) Matrix × Matrix (Feature Transformation)
+   - Transformation matrix T: ______
+   - Transformed rows (in order): ______
+
+6) Challenge – Combine One-Hot with Numeric
+   - One-hot columns for Casing [Plastic, Aluminium, Composite].
+   - Chosen importance vector [RAM, Weight, Plastic, Aluminium, Composite]: ______
+   - Scores per laptop (in order): ______
