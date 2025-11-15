@@ -1,0 +1,17 @@
+timeseries-melbourne-sydney.png
+https://robjhyndman.com/hyndsight/forecast5/
+
+timeseries-fourexamples.png
+https://otexts.com/fpp2/tspatterns.html
+
+timeseries-cyclical.png
+https://robjhyndman.com/hyndsight/cyclicts/
+
+timeseries-trend.jpg, timeseries-seasonal.png
+https://www.vskills.in/certification/tutorial/time-series-forecasting-models/
+
+timeseries-decomposition.jpeg
+https://www.pyquantnews.com/the-pyquant-newsletter/forecasting-time-series-with-decomposition
+
+boxplots_anatomy.png
+https://visualizationcheatsheets.github.io/boxplot.html
