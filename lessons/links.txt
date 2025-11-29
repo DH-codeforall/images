@@ -15,3 +15,9 @@ https://www.pyquantnews.com/the-pyquant-newsletter/forecasting-time-series-with-
 
 boxplots_anatomy.png
 https://visualizationcheatsheets.github.io/boxplot.html
+
+sql-joins.png
+https://red9.com/blog/sql-joins-venn-diagram/
+
+sql-normalization.png
+https://www.algodaily.com/lessons/best-sql-interview-practice-questions/normalization-denormalization
