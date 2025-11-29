@@ -21,3 +21,6 @@ https://red9.com/blog/sql-joins-venn-diagram/
 
 sql-normalization.png
 https://www.algodaily.com/lessons/best-sql-interview-practice-questions/normalization-denormalization
+
+oop-class-instance.svg
+https://adacomputerscience.org/concepts/oop_fundamentals
